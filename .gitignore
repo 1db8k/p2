@@ -8,5 +8,6 @@ test
 .bowerrc
 .editorconfig
 .yo-rc.json
+bower.json
 gulpfile.babel.js
 package.json
